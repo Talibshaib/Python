@@ -1,0 +1,1 @@
+[{"name": "python for beginers", "time": "28 hours"}, {"name": "large language model", "time": "24 hours"}, {"name": "Machine Learning", "time": "40 hours"}]
