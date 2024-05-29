@@ -97,6 +97,8 @@ def main():
                 delete_all_vedio(vedios)
             case '7':
                 break
+            case _:
+                print("please enter a valid option : \n")
            
 if __name__ == "__main__":
     main()
